@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "ikwita/static/css/main.498d002a.chunk.css",
-    "main.js": "ikwita/static/js/main.3012ecf9.chunk.js",
-    "main.js.map": "ikwita/static/js/main.3012ecf9.chunk.js.map",
-    "runtime-main.js": "ikwita/static/js/runtime-main.6c5a29b7.js",
-    "runtime-main.js.map": "ikwita/static/js/runtime-main.6c5a29b7.js.map",
-    "static/css/2.9950865f.chunk.css": "ikwita/static/css/2.9950865f.chunk.css",
-    "static/js/2.45865a2c.chunk.js": "ikwita/static/js/2.45865a2c.chunk.js",
-    "static/js/2.45865a2c.chunk.js.map": "ikwita/static/js/2.45865a2c.chunk.js.map",
-    "index.html": "ikwita/index.html",
-    "precache-manifest.362dfcb261da8c1af05d50c67310e702.js": "ikwita/precache-manifest.362dfcb261da8c1af05d50c67310e702.js",
-    "service-worker.js": "ikwita/service-worker.js",
-    "static/css/2.9950865f.chunk.css.map": "ikwita/static/css/2.9950865f.chunk.css.map",
-    "static/css/main.498d002a.chunk.css.map": "ikwita/static/css/main.498d002a.chunk.css.map",
-    "static/js/2.45865a2c.chunk.js.LICENSE.txt": "ikwita/static/js/2.45865a2c.chunk.js.LICENSE.txt"
+    "main.css": "/ikwita/static/css/main.498d002a.chunk.css",
+    "main.js": "/ikwita/static/js/main.f9709133.chunk.js",
+    "main.js.map": "/ikwita/static/js/main.f9709133.chunk.js.map",
+    "runtime-main.js": "/ikwita/static/js/runtime-main.1d11d7e3.js",
+    "runtime-main.js.map": "/ikwita/static/js/runtime-main.1d11d7e3.js.map",
+    "static/css/2.9950865f.chunk.css": "/ikwita/static/css/2.9950865f.chunk.css",
+    "static/js/2.45865a2c.chunk.js": "/ikwita/static/js/2.45865a2c.chunk.js",
+    "static/js/2.45865a2c.chunk.js.map": "/ikwita/static/js/2.45865a2c.chunk.js.map",
+    "index.html": "/ikwita/index.html",
+    "precache-manifest.4a8cf8637ee4854133b472769aeb68a4.js": "/ikwita/precache-manifest.4a8cf8637ee4854133b472769aeb68a4.js",
+    "service-worker.js": "/ikwita/service-worker.js",
+    "static/css/2.9950865f.chunk.css.map": "/ikwita/static/css/2.9950865f.chunk.css.map",
+    "static/css/main.498d002a.chunk.css.map": "/ikwita/static/css/main.498d002a.chunk.css.map",
+    "static/js/2.45865a2c.chunk.js.LICENSE.txt": "/ikwita/static/js/2.45865a2c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6c5a29b7.js",
+    "static/js/runtime-main.1d11d7e3.js",
     "static/css/2.9950865f.chunk.css",
     "static/js/2.45865a2c.chunk.js",
     "static/css/main.498d002a.chunk.css",
-    "static/js/main.3012ecf9.chunk.js"
+    "static/js/main.f9709133.chunk.js"
   ]
 }
