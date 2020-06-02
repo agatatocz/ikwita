@@ -23,7 +23,7 @@ class PlLocalizedUtils extends DateFnsUtils {
 
 function App() {
   return (
-    <Router>
+    <Router basename="/ikwita">
       <ThemeProvider theme={theme}>
         <MuiPickersUtilsProvider utils={PlLocalizedUtils} locale={plLocale}>
           <CssBaseline />
