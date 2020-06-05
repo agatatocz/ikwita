@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2aed144eb89665a72067ed2bc253258c",
+    "revision": "d32af03d0fc13ab85c56939df54b26ec",
     "url": "/ikwita/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ikwita/static/css/2.9950865f.chunk.css"
   },
   {
-    "revision": "9c46b1a9066963342805",
+    "revision": "4912ac835e5c516b95f7",
     "url": "/ikwita/static/css/main.498d002a.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ikwita/static/js/2.45865a2c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9c46b1a9066963342805",
-    "url": "/ikwita/static/js/main.f9709133.chunk.js"
+    "revision": "4912ac835e5c516b95f7",
+    "url": "/ikwita/static/js/main.1aa7a9ea.chunk.js"
   },
   {
     "revision": "96e4cb9d16e4b2984c4a",
