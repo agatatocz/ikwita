@@ -330,6 +330,7 @@ const RawDataProvider: React.SFC<DataProviderProps> = ({
           .addExpense(name, value, date, category.id, walletId)
           .then(({ data }) => {
             wallet.expenses.push(data);
+            wallet.sumExpenses += data.value;
             setWallets(wallets);
           });
 
@@ -344,6 +345,7 @@ const RawDataProvider: React.SFC<DataProviderProps> = ({
         )
         .then(({ data }) => {
           wallet.expenses.push(data);
+          wallet.sumExpenses += data.value;
           setWallets(wallets);
         });
     }
@@ -397,6 +399,7 @@ const RawDataProvider: React.SFC<DataProviderProps> = ({
         .addIncome(name, value, date, category.id, walletId)
         .then(({ data }) => {
           wallet.incomes.push(data);
+          wallet.sumIncomes += data.value;
           setWallets(wallets);
         });
     }
