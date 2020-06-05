@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/ikwita/static/css/main.498d002a.chunk.css",
-    "main.js": "/ikwita/static/js/main.1aa7a9ea.chunk.js",
-    "main.js.map": "/ikwita/static/js/main.1aa7a9ea.chunk.js.map",
+    "main.js": "/ikwita/static/js/main.9ae77278.chunk.js",
+    "main.js.map": "/ikwita/static/js/main.9ae77278.chunk.js.map",
     "runtime-main.js": "/ikwita/static/js/runtime-main.1d11d7e3.js",
     "runtime-main.js.map": "/ikwita/static/js/runtime-main.1d11d7e3.js.map",
     "static/css/2.9950865f.chunk.css": "/ikwita/static/css/2.9950865f.chunk.css",
-    "static/js/2.45865a2c.chunk.js": "/ikwita/static/js/2.45865a2c.chunk.js",
-    "static/js/2.45865a2c.chunk.js.map": "/ikwita/static/js/2.45865a2c.chunk.js.map",
+    "static/js/2.92f38ec0.chunk.js": "/ikwita/static/js/2.92f38ec0.chunk.js",
+    "static/js/2.92f38ec0.chunk.js.map": "/ikwita/static/js/2.92f38ec0.chunk.js.map",
     "index.html": "/ikwita/index.html",
-    "precache-manifest.15caf86b5d5638c6a62f8c9751b81acb.js": "/ikwita/precache-manifest.15caf86b5d5638c6a62f8c9751b81acb.js",
+    "precache-manifest.d5def9d5ec17e944ac1bf04c4ab2c816.js": "/ikwita/precache-manifest.d5def9d5ec17e944ac1bf04c4ab2c816.js",
     "service-worker.js": "/ikwita/service-worker.js",
     "static/css/2.9950865f.chunk.css.map": "/ikwita/static/css/2.9950865f.chunk.css.map",
     "static/css/main.498d002a.chunk.css.map": "/ikwita/static/css/main.498d002a.chunk.css.map",
-    "static/js/2.45865a2c.chunk.js.LICENSE.txt": "/ikwita/static/js/2.45865a2c.chunk.js.LICENSE.txt"
+    "static/js/2.92f38ec0.chunk.js.LICENSE.txt": "/ikwita/static/js/2.92f38ec0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1d11d7e3.js",
     "static/css/2.9950865f.chunk.css",
-    "static/js/2.45865a2c.chunk.js",
+    "static/js/2.92f38ec0.chunk.js",
     "static/css/main.498d002a.chunk.css",
-    "static/js/main.1aa7a9ea.chunk.js"
+    "static/js/main.9ae77278.chunk.js"
   ]
 }
