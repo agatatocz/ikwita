@@ -121,7 +121,7 @@ export const ExpensesTab: React.SFC<ExpensesTabProps> = ({
             </Typography>
             {!!sumForUser && (
               <div className={classes.pieChartContainer}>
-                <PieChart data={dataForUser} />
+                <PieChart data={dataForUser} isPerUser={true} />
               </div>
             )}
           </div>
